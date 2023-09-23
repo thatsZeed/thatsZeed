@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Zeed</h1>
-<h3 align="left">A .Net developer from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thatszeed&label=Profile%20views&color=0e75b6&style=flat" alt="thatszeed" /> </p>
 
